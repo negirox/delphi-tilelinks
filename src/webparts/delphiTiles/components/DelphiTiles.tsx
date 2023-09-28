@@ -24,7 +24,7 @@ export default class DelphiTiles extends React.Component<IDelphiTilesProps, {}> 
           setSelectedItemId={this.props.setSelectedItemId} SelectedItemId={this.props.SelectedItemId}
           setLinks={this.props.setLinks} setWebpartTitle={this.props.setWebpartTitle}
           hideText={this.props.hideText} size={this.props.size}
-        ></TilesQuickLinks>
+        />
       </section>
     );
   }
