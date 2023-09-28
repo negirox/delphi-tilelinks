@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "delphi-tilelinks-client-side-solution",
+    "id": "ebf0aa1c-1fe3-4fbf-894b-663d1481129b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "delphi-tilelinks description"
+      },
+      "longDescription": {
+        "default": "delphi-tilelinks description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "delphi-tilelinks Feature",
+        "description": "The feature that activates elements of the delphi-tilelinks solution.",
+        "id": "25264135-0fc8-405a-887d-7ab100e54a42",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/delphi-tilelinks.sppkg"
+  }
+}

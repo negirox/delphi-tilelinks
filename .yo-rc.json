@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "delphi-tilelinks",
+    "libraryId": "ebf0aa1c-1fe3-4fbf-894b-663d1481129b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "delphi-tilelinks",
+    "solutionShortDescription": "delphi-tilelinks description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
